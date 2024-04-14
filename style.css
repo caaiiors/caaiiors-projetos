@@ -36,9 +36,9 @@ h3 {
 }
 
 .quadrado {
-  width: 250px;
+  width: auto;
   text-align: center;
-  border-radius: 20px;
+  border-radius: auto;
   backdrop-filter: blur(5.5px);
   -webkit-backdrop-filter: blur(5.5px);
   background: rgba(255, 255, 255, 0.75);
@@ -49,7 +49,7 @@ h3 {
   backdrop-filter: blur(4px);
   background: rgba(255, 255, 255, 0.30);
   border: 1px solid rgba(255, 255, 255, 0.34);
-  padding: 20px 200px;
+  padding: auto;
 }
 
 main {
