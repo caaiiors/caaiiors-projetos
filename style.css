@@ -5,7 +5,7 @@
 }
 
 body {
-  height: 100vh; /* Define a altura do corpo como 100% da altura da viewport */
+  height: auto; /* Define a altura do corpo como automatico da altura da viewport */
   margin: 0;
   display: flex;
   justify-content: center; /* Centraliza horizontalmente */
